@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12h | 2 |
+| Week 1 | Tier 1 | 10h | 1 |
 
 ## Contents
 
@@ -39,10 +39,9 @@ i started making the pcb and trying to learn, im half way to end the pcb and im 
 
 ![Captura de pantalla 2026-10-11 000350](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8kgnGUCJvcSrTUFBrjt2VgaLd81MgIGM/091c897be06ee8080e06bfa5a81a5b2460d95b3ce9dd9d868499902748cc3159.png)
 
-### 2026-10-11 – i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my be
+ – i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my be
 
 **3h**
 
-i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my best to get something, but thats all than i worked on and im proud of my job :D
+i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my best to get something, but thats all than i worked on and im proud of my job 
 
-[Timelapse](https://lookout.hackclub.com/api/media/90d894aa-78ed-49fc-b4bb-26003371b6e6/video.mp4)
